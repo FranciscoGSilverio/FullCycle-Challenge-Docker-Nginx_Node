@@ -1,4 +1,4 @@
-## Enter MySQL database:
+## Enter MySQL database (once the container is running):
 
 1. docker exec -it bash db
 2. mysql -uroot -p 
